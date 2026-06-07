@@ -1,0 +1,18 @@
+
+// same like anonymouos function it does not have function name and funtion keyword
+// we have goes to operator
+// and assigned to variable
+
+let variable = (parameter)=>
+{
+//blocl of code
+}
+variable();
+
+//with no parameters and no return type
+
+let greet=()=>
+{
+    console.log("Hello arrow")
+}
+ greet();
